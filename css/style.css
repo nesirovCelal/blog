@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.boxes {
+  width: 80%;
+  margin: 20px auto;
+  height: 60vh;
+  border: 2px dashed red;
+}
+.boxes ul {
+  list-style: none;
+}
+.boxes ul li a {
+  text-decoration: none;
+  color: rgb(255, 0, 0);
+}/*# sourceMappingURL=style.css.map */
